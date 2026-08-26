@@ -77,6 +77,7 @@ backend/
 │   ├── instructor_agent.py    # AI Instructor agent (designer dialogue + syllabus + teaching)
 │   ├── guardrails.py          # Input/output safety checks
 │   └── tools.py               # Custom tools (e.g. days_until_deadline)
+│   └── Orchestrator.py               
 ├── venv/
 ├── chainlit.md                 # Welcome screen content
 ├── requirements.txt
