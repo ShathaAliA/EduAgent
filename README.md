@@ -1,6 +1,6 @@
 ## EduAgent
 <h1 align="center">EduAgent 🤖📚</h1>
-An AI-powered study assistant built with **Chainlit**, offering two specialized agents to help students plan their work and learn new topics — with a built-in safety (Guardrails) layer protecting both.
+An AI-powered study assistant built with `Chainlit`, offering two specialized agents to help students plan their work and learn new topics — with a built-in safety (Guardrails) layer protecting both.
 
 ---
 
@@ -183,8 +183,8 @@ Built as an educational AI agents project demonstrating:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Chainlit-000000?style=for-the-badge&logo=chainlit&logoColor=white" alt="Chainlit">
 </p>
-<h1 align="center">👥 Team</h1>
+<h1 align="center">👥 Team Member:</h1>
 
-* Tala
+* Tala Sami
 
-* Shatha
+* Shatha Ali
