@@ -1,0 +1,5 @@
+chainlit
+langgraph
+langchain
+langchain-google-genai
+python-dotenv
