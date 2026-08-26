@@ -32,6 +32,7 @@ A multi-stage, multi-agent teaching pipeline:
 3. **Adaptive Teaching** — An instructor agent teaches the syllabus interactively, one concept at a time, adjusting pace and depth based on the student's responses.
 - All Instructor content is delivered in **English**!, regardless of the input language.
 - Built with **LangChain** directly (the flow is a straightforward sequential exchange between agents, not a complex state machine).
+  
 --
 ### 🛡️ Guardrails
 Both agents are wrapped with a two-layer safety system:
