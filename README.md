@@ -33,8 +33,7 @@ A multi-stage, multi-agent teaching pipeline:
 - All Instructor content is delivered in **English**!, regardless of the input language.
 - Built with **LangChain** directly (the flow is a straightforward sequential exchange between agents, not a complex state machine).
 
---
-
+---
 ### 🛡️ Guardrails
 Both agents are wrapped with a two-layer safety system:
 
