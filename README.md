@@ -1,4 +1,4 @@
-## EduAgent
+## AI_Agent
 <h1 align="center">EduAgent 🤖📚</h1>
 
 An AI-powered study assistant built with **Chainlit**, offering two specialized agents to help students plan their work and learn new topics — with a built-in safety (Guardrails) layer protecting both.
